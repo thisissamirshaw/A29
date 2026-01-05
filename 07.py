@@ -1,0 +1,11 @@
+# WAP to find area of circle, square and rectangle
+l=int(input("enter length of rect"))
+b=int(input("Enter breadth"))
+s=int(input("enter side of square"))
+r=int(input("enter the radius"))
+print("Area of Rect=", l*b)
+print("perimeter of rect=", l+l+b+b)
+print("area of square=", s*s)
+print("perimeter of square=", 4*s)
+print("cir of circle=", 2*3.14*r)
+print("area of circle=", 3.14*r*r)
