@@ -1,11 +1,14 @@
-#WAP a='Hello', b='bye', op='Hbeylelo'
 a='Hello'
 b='bye'
 out=''
-while i<len(a+b):
-        while 
+i=0
+while i<len(a) or i<len(b):
+        if i<len(a):
+                out+= a[i]
+        if i<len(b):
+                out+=b[i]
+        i+=1
+print(out)                
     
-        out+=a[i]
-    else:
-        out+=b[i]
+      
     
