@@ -5,7 +5,7 @@ a='aabcbcdcbab'
 i=0
 out=''
 while i<len(a):
-    if a[i] not in out:
+    if a[i] not in out: #i am actually whther the char is appearing for the debut or not
         out+=a[i]+str(a.count(a[i]))
     i+=1
 print(out)    

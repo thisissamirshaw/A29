@@ -3,7 +3,7 @@ a='abaabcdabc'
 out={} #the default value of dict
 i=0
 while i<len(a):
-    out[a[i]]=a.count(a[i]) #this is the process how you could make a dict
+    out[a[i]]=a.count(a[i]) #this is the process how you could make a dict #Why are we using out[] in square braces instead of {} when it is dict
     i+=1
 print(out)    
 # print(a.count('a'))

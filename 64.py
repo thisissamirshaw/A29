@@ -7,7 +7,7 @@ op='nitin ava ata'
 i=0
 out=''
 while i<len(a):
-    if a[i]==a[i][::-1]:
+    if a[i]==a[i][::-1]: #it is very crucial for me the see what is a[i][::-1]means and a[][]
         out+=a[i]
         out+=' '
     i+=1
