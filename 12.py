@@ -9,7 +9,8 @@ hg.remove(11)
 print(hg)
 hg.pop()
 print(hg)
-
+hg.pop()
+print(hg)
 
 
 
