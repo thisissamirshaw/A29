@@ -1,4 +1,4 @@
-#WAP to extract only the palindrome integers from a list and print in a new list
+# WAP to extract only the palindrome integers from a list and print in a new list
 a=[11,121,97,'hello',3.5,12]
 i=0
 out=[]
@@ -9,5 +9,5 @@ while i<len(a):
             out.append(a[i])
     i+=1
 print(out)
-#---------OR----------
+#---------OR---------------------------------------
 #if(type(a[i]==int and str(a[i]==str(a[i][::-1]))))
