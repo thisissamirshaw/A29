@@ -1,4 +1,5 @@
-#WAP to extract all the str from a given list at even index position and their length should be atleast than 3 without using inbuilt function
+# WAP to extract all the str from a given list at even index position 
+# and their length should be atleast than 3 without using inbuilt function
 lt=['eve','evve',]
 i=0
 out=[]

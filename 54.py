@@ -1,4 +1,4 @@
-#WAP to print the special character from any email id
+# WAP to print the special character from any email id
 a='samirshaw3525@gmail.com'
 i=0
 out=''
