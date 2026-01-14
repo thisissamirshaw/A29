@@ -6,5 +6,3 @@ print(d)
 print(d.keys())
 print(d.items())
 print(d.values())
-
-

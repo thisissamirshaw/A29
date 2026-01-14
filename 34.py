@@ -1,4 +1,6 @@
-#WAP to print last character of a list and it should be string and palindrome in nature and its length should be more than 4 without using any inbuilt functions
+#WAP to print last character of a list and it should be string 
+# and palindrome in nature 
+# and its length should be more than 4 without using any inbuilt functions
 lst=['hello','aba','121','world','python']
 last=lst[ -1]
 if isinstance(last, str) and len(last) > 4:

@@ -12,8 +12,6 @@ while a!=0:
     a=a//10
 print(rev)    
 # #----------------------------OR-----------------------------------
-
-
 # #Sum Until Threshold  
 # # Write a program using a while loop that keeps asking the user to enter numbers. 
 # # Stop when the total sum exceeds 100, and then print the sum and how many 

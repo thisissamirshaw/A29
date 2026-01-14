@@ -1,3 +1,3 @@
 #WAP to showcase the use of eval function
-a=eval(int("enter list"))
+a=dict(eval(input("enter list")))
 print(a)
