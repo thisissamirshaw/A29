@@ -1,4 +1,5 @@
-#WAP to print str from a given list which should have more than len 3 and should be in odd position of the list
+#WAP to print str from a given list which should have more than len 3
+#  and should be in odd position of the list
 a=['ab',321,9.8,'python',5+3j,'nike','just do it','abd']
 #O/P=['python', 'nike']
 out=[]
