@@ -1,4 +1,5 @@
-#WAP similar to Two Sum problem but we have to return the two numbers instead of their indices.
+# WAP similar to Two Sum problem but 
+# we have to return the two numbers instead of their indices.
 # For example, given nums = [2, 7, 11, 15], target = 9,
 # Because nums[0] + nums[1] = 2 + 7 = 9,
 # return [2, 7].
