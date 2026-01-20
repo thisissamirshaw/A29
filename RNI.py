@@ -5,7 +5,7 @@
 # return [2, 7].
 lt = [2,7,11,15,9,0]
 target=9
-for i in range(len(lt)):                       #TC O(n^2)
+for i in range(len(lt)):                                      #TC O(n^2)
     for j in range(i+1, len(lt)):
         if lt[i] + lt[j] == target:
             print(lt[i],lt[j])
