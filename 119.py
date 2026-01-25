@@ -1,4 +1,5 @@
 #WAP to op the len of words in key value pair
+#{'Power': 5, 'Star': 4}
 def coun():
     a="Power Star".split()
     b={}
