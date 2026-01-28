@@ -10,5 +10,7 @@ while i<len(a):
     i+=1 
 print(out+str(count))
 #alternate
-#out=out+(str)count     
-#print(out+str(len(out)))
+    
+# try to understand these two lines and make sense
+# out=out+str(count) 
+# print(out+str(len(out)))
