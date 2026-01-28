@@ -8,6 +8,7 @@ while i<len(a):
         out+=a[i]
         count+=1
     i+=1 
-#out=out+(str)count     
-#0print(out+str(len(out)))
 print(out+str(count))
+#alternate
+#out=out+(str)count     
+#print(out+str(len(out)))
