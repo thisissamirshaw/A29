@@ -1,0 +1,1 @@
+#WAP to input a list of element and return palindrome integers only
