@@ -10,4 +10,4 @@ while i < 51:
         print(i * i)
     elif i % 5 == 0:
         print(i ** 3) 
-    i += 1    
+    i+=1    
