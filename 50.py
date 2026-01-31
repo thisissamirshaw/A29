@@ -5,4 +5,6 @@ n = int(input("Enter a number:"))
 while m <= n:
     if m%5==0:
         print(m)
+    else:
+        print(m,"not div")
     m+=1  
