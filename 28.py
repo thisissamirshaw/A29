@@ -11,7 +11,5 @@ while True:
     print("fail")    
  else:
    print("Marks not in range")
- if marks == 999:
-    print("end of programme")
-    break
+ 
  

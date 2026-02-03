@@ -1,4 +1,5 @@
-#WAP to check the number is even or odd, and also check is divisible by 5 or not
+# WAP to check the number is even or odd, 
+# and also check is divisible by 5 or not
 a=int(input("enter no"))
 if a%2==0:
     print("even")
