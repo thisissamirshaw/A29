@@ -6,4 +6,6 @@ def gen():
     print('Bye')
     yield 3
 
-print(list(gen()))
+print(tuple(gen()))
+
+#yield is used to get array output or MVDT outputs 
