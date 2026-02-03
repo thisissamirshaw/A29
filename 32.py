@@ -1,4 +1,4 @@
-#WAP to store username and password and validte it using nested if .
+# WAP to store username and password and validte it using nested if .
 username=input("enter username")
 password=input("enter password")
 if username=="admin":
