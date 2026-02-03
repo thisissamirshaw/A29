@@ -5,8 +5,8 @@ max=0
 for i in a:
     if max<=len(i):
         max=len(i)
-out[max]=[]
+out[max]=[] #crucial
 for i in a:
     if len(i)==max:
-        out[max]+=[i]  
+        out[max]+=[i]  #this step is crucial
 print(out) 
