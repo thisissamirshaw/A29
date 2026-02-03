@@ -9,3 +9,5 @@ def gen():
 print(tuple(gen()))
 
 #yield is used to get array output or MVDT outputs 
+#yield gives us the privilidge of solving sorting algos of mvdt
+# and give output without using the print keyword
