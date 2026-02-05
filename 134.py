@@ -25,6 +25,20 @@ for i in a:
     out[i]=[i,count]
 print(out)
 
+#3rd Process
+
+a='python star'.split()
+result={}
+index=0
+while index < len(a):
+    word = a[index]
+    count = 0
+    for char in word:
+        count += 1
+    result[word] = [word, count]
+    index += 1
+print(result)
+
 
 
 
