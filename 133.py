@@ -12,7 +12,7 @@ for i in a:
 print(out) 
 
 
-ot=[89]
-print(ot)
-ot[1]=[8]
-print(ot)
+# ot=[89]
+# print(ot)
+# ot[1]=[8]
+# print(ot)
